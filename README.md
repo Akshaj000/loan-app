@@ -1,4 +1,4 @@
-# A basic django rest endpoint.
+## A basic django rest endpoint with celery task to initialize the database using the excel sheets.
 
 ### /register
 
