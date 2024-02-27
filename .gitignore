@@ -1,0 +1,14 @@
+.vscode
+*.pyc
+__pycache__
+node_modules/
+.DS_Store
+myenv/
+media/
+staticfiles/
+static/.DS_Store
+/static/js/build/
+# local configuration files
+*.env
+# google calendar credentials file
+celerybeat-schedule
